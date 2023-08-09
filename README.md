@@ -12,7 +12,7 @@ https://github.com/elsayedzahran/Week1-Task2
 
 ## Week 1 Topics -> Java Collections & SQL
 ### Java Collections Repo
-https://github.com/elsayedzahran/Week1-Task1
+https://github.com/elsayedzahran/java-Collections.git
 ### SQL Repo
-https://github.com/elsayedzahran/Week1-Task2
+https://github.com/elsayedzahran/SQL-DataBase-Fundamentals.git
 ## ----------------------------------------------------------
