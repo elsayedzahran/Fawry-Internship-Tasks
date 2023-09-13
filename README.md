@@ -28,7 +28,17 @@ https://github.com/elsayedzahran/Creational-Design-Pattern-AbstractFactory.git
 https://github.com/elsayedzahran/Creational-Design-Pattern-Singleton.git
 ## ----------------------------------------------------------
 
-## Week 4 Topics -> UnitTesting
+## Week 4 Topics -> UnitTesting, DesignPatterns
 ### Unit-Testing Exercise
 https://github.com/elsayedzahran/Unit-Testing.git
+### Another design pattern task
+https://github.com/elsayedzahran/DesignPattern.git
 ## ----------------------------------------------------------
+
+## Week 5 Topics -> Java8
+### Lamda Expression Exercise
+https://github.com/elsayedzahran/LamdaExpression-Excercise.git
+### Java streams task
+https://github.com/elsayedzahran/Java-Stream-Excercise.git
+## ----------------------------------------------------------
+
