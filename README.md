@@ -42,3 +42,19 @@ https://github.com/elsayedzahran/LamdaExpression-Excercise.git
 https://github.com/elsayedzahran/Java-Stream-Excercise.git
 ## ----------------------------------------------------------
 
+## Week 6 Topics -> Dev-Ops, Java JDBC
+### Jdbc Excercise
+https://github.com/elsayedzahran/JDBC.git
+## ----------------------------------------------------------
+
+## Week 7 Topics -> Hibernate - JavaEE
+### Hibernate Expression Exercise
+https://github.com/elsayedzahran/Hibernate-Excercise.git
+### JavaEE
+https://github.com/elsayedzahran/JavaEE-Task.git
+## ----------------------------------------------------------
+
+## Week 8 Topics -> SpringCore - SpringData
+### Spring Exercise
+loading
+## ----------------------------------------------------------
